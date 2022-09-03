@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T00:12:15.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="EB2n6dFP015DU_EIwOJ1" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-03T00:34:32.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="xurC_FY5-GPrYxGlpcxu" version="20.2.8" type="github">
   <diagram id="-3AMFFtKCczr6PJ7xZKp" name="Página-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,30 @@
         </mxCell>
         <mxCell id="rqUFjf_ysvI5r7aMsHxQ-2" value="Sistema de Gerenciamento de Estacionamento" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="145" y="30" width="490" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rylITT0ITqVEOuKbowbq-1" value="VAGA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="90" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rylITT0ITqVEOuKbowbq-2" value="estaciona" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="85" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rylITT0ITqVEOuKbowbq-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rylITT0ITqVEOuKbowbq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="124.5" as="sourcePoint" />
+            <mxPoint x="570" y="124.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="124.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rylITT0ITqVEOuKbowbq-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="124.5" as="sourcePoint" />
+            <mxPoint x="320" y="125" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="124.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
